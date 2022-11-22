@@ -6,6 +6,7 @@ Basic Calculator with basic syntax and logic using React
 </div>
 
 ### `clone https://github.com/Khiem17204/React-Calculator-App.git`
+### `cd React-Calculator-App`
 ### `npm start`
 
 Enjoy
